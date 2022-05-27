@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.ufes.inf.jpalmeida.owid.AppTest" time="0.022" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="br.ufes.inf.jpalmeida.owid.AppTest" time="0.025" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/>
-    <property name="sun.java.command" value="/home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/surefire/surefirebooter3538603241367774542.jar /home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/surefire 2022-05-26T18-20-23_762-jvmRun1 surefire2633207236317259001tmp surefire_011297431100560325216tmp"/>
+    <property name="sun.java.command" value="/home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/surefire/surefirebooter8220498332288208348.jar /home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/surefire 2022-05-26T21-16-02_558-jvmRun1 surefire14599047707621109536tmp surefire_08754148185024527648tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/test-classes:/home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/classes:/home/philipe/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/philipe/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/philipe/.m2/repository/org/apache/commons/commons-csv/1.9.0/commons-csv-1.9.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -32,7 +32,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/surefire/surefirebooter3538603241367774542.jar"/>
+    <property name="surefire.real.class.path" value="/home/philipe/Documents/ufes/pi/lab1/vidabrasil/target/surefire/surefirebooter8220498332288208348.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.15+10-Ubuntu-0ubuntu0.20.04.1"/>
     <property name="user.name" value="philipe"/>
@@ -57,5 +57,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="br.ufes.inf.jpalmeida.owid.AppTest" time="0.001"/>
+  <testcase name="shouldAnswerWithTrue" classname="br.ufes.inf.jpalmeida.owid.AppTest" time="0.002"/>
 </testsuite>
